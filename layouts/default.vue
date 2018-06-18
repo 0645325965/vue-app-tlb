@@ -1,7 +1,7 @@
 <template>
   <v-app>
     <v-navigation-drawer v-model="drawer" app right/>
-    <v-toolbar app>
+    <v-toolbar app class="#C5CAE9">
       <v-toolbar-title>VueApp</v-toolbar-title>
       <v-spacer/>
       <v-toolbar-side-icon @click.stop="drawer = !drawer"/>
