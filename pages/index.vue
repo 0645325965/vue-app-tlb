@@ -1,5 +1,5 @@
 <template>
-  <div>Hello world</div>
+  <div>Thada Poonpotica</div>
 </template>
 <script>
 export default {
